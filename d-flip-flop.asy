@@ -1,0 +1,19 @@
+Version 4
+SymbolType CELL
+RECTANGLE Normal 31 48 -33 -49
+WINDOW 0 -32 -67 Left 0
+PIN -32 -32 NONE 8
+PINATTR PinName D
+PINATTR SpiceOrder 1
+PIN -32 32 NONE 8
+PINATTR PinName Clk
+PINATTR SpiceOrder 2
+PIN 32 -32 NONE 8
+PINATTR PinName Q
+PINATTR SpiceOrder 3
+PIN 32 32 NONE 8
+PINATTR PinName Qbar
+PINATTR SpiceOrder 4
+PIN 0 48 NONE 8
+PINATTR PinName Reset
+PINATTR SpiceOrder 5
